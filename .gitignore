@@ -1,0 +1,12 @@
+echo .env >> .gitignore
+echo backend/.env >> .gitignore
+echo venv/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo node_modules/ >> .gitignore
+echo frontend/dist/ >> .gitignore
+backend/.env
+.env
+venv/
+__pycache__/
+node_modules/
+frontend/dist/
